@@ -1,0 +1,9 @@
+{
+  "name": "meta-ads-library-scraper",
+  "version": "1.0.0",
+  "main": "actor.js",
+  "dependencies": {
+    "apify": "^2.0.0",
+    "puppeteer": "^19.0.0"
+  }
+}
